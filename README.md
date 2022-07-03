@@ -9,7 +9,6 @@ Website thương mại điện tử xây dựng theo mô hình MVC
 
 ### Back-end
 - PHP - MVC
-- Composer (PSR-4)
 - MySQL
 
 
